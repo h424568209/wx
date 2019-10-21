@@ -1,5 +1,5 @@
 //import java.util.*;
-public class Ex {
+
 //    public class Leecode {
 //        /**
 //         * 将一个字符串的所有空格替换成%20
@@ -349,4 +349,3 @@ public class Ex {
 //        }
 //
 //    }
-}
